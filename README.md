@@ -14,7 +14,8 @@ Entra ID.<br />
 
 <p>
 Audit Logs of user Chris Wright & Delexis Roach.
-<img width="1900" height="1072" alt="Audit   Sign In log review" src="https://github.com/user-attachments/assets/a041b391-2d14-4f03-bab6-7d2eb2fafe13" />
+<img width="1907" height="1043" alt="Audit logs Chris Wright" src="https://github.com/user-attachments/assets/09f08d80-6045-4511-b83c-5fc24d4fe5a5" />
+
 
 
 
